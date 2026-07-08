@@ -6,8 +6,8 @@ This project presents an interactive Coffee Shop Sales Dashboard built in Micros
 
 🛠 Tools Used
 
-Microsoft Excel
-Power Query
+Microsoft Excel <br>
+Power Query<br>
 Power Pivot / Data Model
 Pivot Tables
 Pivot Charts
