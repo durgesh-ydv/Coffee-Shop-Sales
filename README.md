@@ -55,7 +55,7 @@ Barista Espresso is the top-selling product by revenue.
 
 📂 Files Included
 File	Description
-Coffee Sales Dashboard.xlsx	Interactive Excel Dashboard
-Dashboard Screenshot.png	Dashboard Preview
-Business Requirements.pdf	Business questions and project objective
-README.md	Project documentation
+Coffee_Shop_Sales_Dashboard.xlsx          Interactive Excel Dashboard
+Dashboard_Preview.png                     Dashboard Preview
+Business_Requirements.pdf               	Business questions and project objective
+README.md	Project                         documentation
